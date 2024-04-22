@@ -5,5 +5,5 @@
    "password":"your-secure-password",
    "timeout":60,
    "method":"chacha20-ietf-poly1305",
-   "nameserver":"1.1.1.1"
+   "nameserver":"8.8.8.8"
 }
